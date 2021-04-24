@@ -1,3 +1,3 @@
 # vue-start-proekt
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue-start-proekt)
+[Правка на StackBlitz ⚡️](https://stackblitz.com/edit/vue-start-proekt)
