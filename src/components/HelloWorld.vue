@@ -13,7 +13,7 @@
     </ul>
     <h3>Основные ссылки</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
+      <li><a href="https://ru.vuejs.org/index.html" target="_blank" rel="noopener">Core Docs</a></li>
       <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Форум</a></li>
       <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Чат сообщества</a></li>
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
