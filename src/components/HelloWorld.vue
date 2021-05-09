@@ -4,7 +4,7 @@
     <p>
       За руководством и рецептами по настройке этого проекта,<br>
       проследуйте в
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli документацию</a>.
+      <a href="https://cli.vuejs.org/ru/" target="_blank" rel="noopener">vue-cli документацию</a>.
     </p>
     <h3>Установленные плагины CLI</h3>
     <ul>
